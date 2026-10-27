@@ -15,7 +15,7 @@ export function HeroSection() {
         </a>
         <h1 className="text-balance text-[44px] font-medium leading-[0.98] tracking-[-0.06em] sm:text-6xl md:text-7xl lg:text-[82px]">
           One API.
-          <span className="block text-foreground/80">Hello from claude</span>
+          <span className="block text-foreground/80">Frontier AI Models</span>
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-pretty text-base leading-7 text-muted-foreground sm:text-lg">
           Route, optimize, and observe every model request through one OpenAI-compatible endpoint built for production.
